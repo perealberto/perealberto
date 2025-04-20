@@ -1,4 +1,4 @@
-### Eralon El Mago
+### perealberto
 
 Let me introduce myself:
 
@@ -21,7 +21,6 @@ Currently working on [@SopraSteria](https://www.soprasteria.es/) as developer ü
 
 #### Fun Facts
 
-- I do **NOT** use Arch btw.
-- I do use Nvim btw (don't know what's worst).
+- I'm a configuration managing enthousiast!
 
 If you find my work interesting, feel free to reach out or leave a ‚≠ê on my repositories!
